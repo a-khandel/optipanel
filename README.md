@@ -41,10 +41,10 @@ cp .env.example .env
 node src/index.js
 
 # Terminal 2 - Dashboard
-cd frontend02 && npm run dev
+cd frontend-rev-opt && npm run dev
 
 # Terminal 3 - Demo E-commerce Site
-cd dummy_website && npm run dev
+cd website-demo && npm run dev
 ```
 
 📖 **Full Setup Guide**: [docs/setup/QUICKSTART.md](docs/setup/QUICKSTART.md)
